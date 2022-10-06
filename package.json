@@ -1,0 +1,16 @@
+{
+  "name": "storage-pc",
+  "version": "1.0.0",
+  "description": "about storage",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liangjunting",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "nodemon": "^2.0.20"
+  }
+}
